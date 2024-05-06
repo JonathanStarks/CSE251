@@ -1,0 +1,9 @@
+11:02:33| --------------------------------------------------
+11:02:33| Start Drawing No Threads
+11:02:33| All drawing commands have been created = 0.05772990
+11:02:33| Number of Drawing Commands: 1047
+11:02:55| Total drawing time = 21.50816430
+11:03:00| --------------------------------------------------
+11:03:00| Start Drawing With Threads
+11:03:00| All drawing commands have been created = 0.04504700
+11:03:00| Number of Drawing Commands: 836
