@@ -77,14 +77,15 @@ def main():
 
     # sample code: remove before submitting  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     # process one frame #10
-    image_number = 10
 
-    image_file = f'elephant/image{image_number:03d}.png'
-    green_file = f'green/image{image_number:03d}.png'
-    process_file = f'processed/image{image_number:03d}.png'
-
+    image_number = 1
     start_time = timeit.default_timer()
-    create_new_frame(image_file, green_file, process_file)
+    while image_number <= 300:
+        image_file = f'elephant/image{image_number:03d}.png'
+        green_file = f'green/image{image_number:03d}.png'
+        process_file = f'processed/image{image_number:03d}.png'
+        create_new_frame(image_file, green_file, process_file)
+        image_number = image_number + 1
     print(f'\nTime To Process all images = {timeit.default_timer() - start_time}')
     # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 

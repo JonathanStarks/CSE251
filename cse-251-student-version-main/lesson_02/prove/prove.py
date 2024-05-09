@@ -67,27 +67,49 @@ class Request_Thread(threading.Thread):
         # Call the Thread class's init function
         # threading.Thread.__init__(self)
         super().__init__()
-        self.url = TOP_API_URL
+        self.url = url
         self.response = {}
         self.status_code = {}
+        self.data = {}
 
     def run(self):
-        response = requests.get(TOP_API_URL)
+        self.response = requests.get(self.url)
     
     # Check the status code to see if the request succeeded.
-        if response.status_code == 200:
-            data = response.json()
-            print(data)
-        else:
-            print('Error in requesting ID')
+        if self.response.status_code == 200:
+            self.data = self.response.json()
+            
+            
 
 # TODO Add any functions you need here
 def find_urls():
-    req = Request_Thread(rf"http://127.0.0.1:8790")
+    req = Request_Thread(TOP_API_URL)
     req.start()
     req.join()
     
+    data = req.data
+    #print(data)    
+    
+    req = Request_Thread(f'{data["films"]}6')
+    req.start()
+    req.join()
+    
+    data = req.data
+    #print_dict(data)
+    def target_part(feild, content):
+        print(f"{feild}:")
+        print_dict(f"{data[content]}")
 
+    threads = []
+    targets = ["title", "episode_id", "opening_crawl", "director", "producer", "release_date", "characters", "planets", "starships", "vehicles", "species", "created", "edited", "url"
+        ]
+    for x in targets:
+        tn = threading.Thread(target=target_part, args=(x, x))
+        threads.append(tn)
+        tn.start()
+
+    for threads in threads:
+        tn.join()
 
 def main():
     log = Log(show_terminal=True)
@@ -96,7 +118,7 @@ def main():
     # TODO Retrieve Top API urls
     find_urls()
     # TODO Retrieve Details on film 6
-
+    
     # TODO Display results
 
     log.stop_timer('Total Time To complete')
