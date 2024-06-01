@@ -1,0 +1,16 @@
+14:27:55| 0 cars have been created. = 2.80551150
+14:27:55| Factories      : 1
+14:27:55| Dealerships    : 1
+14:27:55| Run Time       : 2.8055
+14:27:55| Max queue size : 7
+14:27:55| Factory Stats  : Made = 0 @ []
+14:27:55| Dealer Stats   : Sold = 0 @ [0]
+14:27:55| 
+14:27:57| 0 cars have been created. = 2.33891850
+14:27:57| Factories      : 1
+14:27:57| Dealerships    : 2
+14:27:57| Run Time       : 2.3389
+14:27:57| Max queue size : 3
+14:27:57| Factory Stats  : Made = 0 @ []
+14:27:57| Dealer Stats   : Sold = 0 @ [0, 0]
+14:27:57| 

@@ -1,0 +1,6 @@
+11:14:16| 0 cars have been created. = 3.50701650
+11:14:16| Factories      : 1
+11:14:16| Dealerships    : 1
+11:14:16| Run Time       : 3.5070
+11:14:16| Max queue size : 9
+11:14:16| Factory Stats  : Made = 0 @ [<class '__main__.Car'>]

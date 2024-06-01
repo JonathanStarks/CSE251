@@ -1,0 +1,6 @@
+11:06:37| 0 cars have been created. = 3.33300370
+11:06:37| Factories      : 1
+11:06:37| Dealerships    : 1
+11:06:37| Run Time       : 3.3330
+11:06:37| Max queue size : 10
+11:06:37| Factory Stats  : Made = 0 @ [<threading.Semaphore at 0x20bc3afaa50: value=0>]

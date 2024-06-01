@@ -41,10 +41,27 @@ def is_prime(n: int) -> bool:
 
 
 # TODO create read_thread function
+def reader():
+    num_queue = []
+    with open("data.txt", "r") as file:
+        for line in file:
+            words = line.strip().split()
+            for word in words:
+                num_queue.append(int(word))
+                
+                return num_queue
+
 
 
 # TODO create prime_process function
-
+def primer(num_queue):
+    primes = []
+    while num_queue:
+        num = num_queue.pop(0)
+        if is_prime(num):
+            primes.append(num)
+        
+        return primes
 
 def create_data_txt(filename):
     # only create if is doesn't exist 
@@ -65,12 +82,20 @@ def main():
     log.start_timer()
 
     # TODO Create shared data structures
+    num_queue = mp.Queue()
+    primes = mp.Queue()
 
     # TODO create reading thread
+    t = threading.Thread(target=reader, args=(num_queue, primer,))
 
     # TODO create prime processes
+    processes = []
+    for p in range(PRIME_PROCESS_COUNT):
+        p - mp.Process(target=primer, args=(num_queue, primes))
+        primes.append(p)
 
     # TODO Start them all
+    for threads in 
 
     # TODO wait for them to complete
 
