@@ -31,6 +31,14 @@ OPEN = 1
 WALL = 2
 VISITED = 3
 
+'''
+    There will be a tuple [] of possible moves, either [], [x], [x,y] or [x,y,z]
+    the empty tuple means that you are at a dead end, the tuple with a single value
+    means that you are in a hall, the tuple with two values means that you are at 
+    a T-junction and that you need to make a choice on which path to take, and the 
+    tuple with three values is a 4 way intersection that will also need to have a 
+    choice be made.
+'''
 class Maze():
 
     def __init__(self, screen, width, height, bitmap_file, delay=False):

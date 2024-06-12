@@ -14,6 +14,8 @@ below before submitting this file:
 Note: each of the 5 task functions need to return a string.  They should not print anything.
 
 TODO:
+If I understand the purpose of the pool size it is to determine how many threads there can be for a pool, I found that around six 
+for each pool was a good amount, any more than that and the saved time is negligable. I determined this by using brute force.
 
 Add your comments here on the pool sizes that you used for your assignment and why they were the best choices.
 """
@@ -21,6 +23,7 @@ Add your comments here on the pool sizes that you used for your assignment and w
 from datetime import datetime, timedelta
 import requests
 import multiprocessing as mp
+from multiprocessing import Pool
 from matplotlib.pylab import plt
 import numpy as np
 import glob
@@ -38,11 +41,11 @@ TYPE_NAME   = 'name'
 
 # TODO: Change the pool sizes and explain your reasoning in the header comment
 
-PRIME_POOL_SIZE = 1
-WORD_POOL_SIZE  = 1
-UPPER_POOL_SIZE = 1
-SUM_POOL_SIZE   = 1
-NAME_POOL_SIZE  = 1
+PRIME_POOL_SIZE = 6
+WORD_POOL_SIZE  = 6
+UPPER_POOL_SIZE = 6
+SUM_POOL_SIZE   = 6
+NAME_POOL_SIZE  = 6
 
 # Global lists to collect the task results
 result_primes = []
@@ -75,8 +78,15 @@ def task_prime(value):
             - or -
         {value} is not prime
     """
-    pass
-
+    # if value % 2 != 0 or value == 2:
+    #     # print(value)
+    #     return(f"{value} is prime")
+    # else:
+    #     return(f"{value} is not prime")
+    if is_prime(value):
+        return(f"{value} is prime")
+    return(f"{value} is not prime")
+    
 
 def task_word(word):
     """
@@ -86,7 +96,14 @@ def task_word(word):
             - or -
         {word} not found *****
     """
-    pass
+    with open("words.txt", "r") as f:
+        word = f.read()
+    for lines in word:
+        if word == lines:
+            # print(word)
+            return(f"{lines} found")
+        else:
+            return (f"{lines} not found")
 
 
 def task_upper(text):
@@ -94,7 +111,9 @@ def task_upper(text):
     Add the following to the global list:
         {text} ==>  uppercase version of {text}
     """
-    pass
+
+    # print(new_text)
+    return (f"{text.upper()} ==> uppercase version of {text}")
 
 
 def task_sum(start_value, end_value):
@@ -103,7 +122,17 @@ def task_sum(start_value, end_value):
         sum of all numbers between start_value and end_value
         answer = {start_value:,} to {end_value:,} = {total:,}
     """
-    pass
+
+    # i = 0
+    # while (start_value + i) != end_value:
+    #     total = start_value + (start_value + i)
+    #     i += 1
+    
+    # result_sums.append(f"{start_value:,} to {end_value:,} = {total:,}")
+    # print(total_msg)
+    total = sum(range(start_value, end_value + 1))
+    return (f"{start_value:,} to {end_value:,} = {total:,}")
+        
 
 
 def task_name(url):
@@ -114,7 +143,16 @@ def task_name(url):
             - or -
         {url} had an error receiving the information
     """
-    pass
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        name = response.json().get("name", "unknown")
+    # if response.status_code == 200:
+    
+        return(f"{url} has name{response.json()['name']}.")
+    # else:
+    except Exception as e:
+        return(f"{url} had an error.")
 
 
 def main():
@@ -122,8 +160,27 @@ def main():
     log.start_timer()
 
     # TODO Create process pools
+    pool_prime = mp.Pool(PRIME_POOL_SIZE)
+    pool_word = mp.Pool(WORD_POOL_SIZE)
+    pool_upper = mp.Pool(UPPER_POOL_SIZE)
+    pool_sum = mp.Pool(SUM_POOL_SIZE)
+    pool_name = mp.Pool(NAME_POOL_SIZE)
 
     # TODO change the following if statements to start the pools
+    def callback_prime(result):
+        result_primes.append(result)
+        
+    def callback_word(result):
+        result_words.append(result)
+
+    def callback_upper(result):
+        result_upper.append(result)
+
+    def callback_sum(result):
+        result_sums.append(result)
+
+    def callback_name(result):
+        result_names.append(result)
     
     count = 0
     task_files = glob.glob("tasks/*.task")
@@ -131,24 +188,46 @@ def main():
         # print()
         # print(filename)
         task = load_json_file(filename)
-        print(task)
+        # print(task)
         count += 1
         task_type = task['task']
         if task_type == TYPE_PRIME:
-            task_prime(task['value'])
+            # task_prime(task['value'])
+            pool_prime.apply_async(task_prime, args=(task['value'],), callback= callback_prime)
+            # print(count)
+        
         elif task_type == TYPE_WORD:
-            task_word(task['word'])
+            # task_word(task['word'])
+            pool_word.apply_async(task_word, args=(task['word'],), callback= callback_word)
+            # print(count)
         elif task_type == TYPE_UPPER:
-            task_upper(task['text'])
+            # task_upper(task['text'])
+            pool_upper.apply_async(task_upper, args=(task['text'],), callback= callback_upper)
+            # print(count)
         elif task_type == TYPE_SUM:
-            task_sum(task['start'], task['end'])
+            # task_sum(task['start'], task['end'])
+            pool_sum.apply_async(task_sum, args=(task['start'], task['end'],), callback= callback_sum)            
+            # print(count)
         elif task_type == TYPE_NAME:
-            task_name(task['url'])
+            # task_name(task['url'])
+            pool_name.apply_async(task_name, args=(task['url'],), callback=callback_name)
+            # print(count)
         else:
             log.write(f'Error: unknown task type {task_type}')
+            # print(count)
 
     # TODO wait on the pools
-
+    pool_prime.close()
+    pool_word.close()
+    pool_upper.close()
+    pool_sum.close()
+    pool_name.close()
+    
+    pool_prime.join()
+    pool_word.join()
+    pool_upper.join()
+    pool_sum.join()
+    pool_name.join()
     # DO NOT change any code below this line!
     #---------------------------------------------------------------------------
     def log_list(lst, log):

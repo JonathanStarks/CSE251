@@ -68,6 +68,7 @@ thread_count = 0
 stop = False
 speed = SLOW_SPEED
 
+# When you start a new thread call the get color function.
 def get_color():
     """ Returns a different color when called """
     global current_color_index

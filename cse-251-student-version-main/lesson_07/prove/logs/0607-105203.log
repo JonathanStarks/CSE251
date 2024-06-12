@@ -1,0 +1,3055 @@
+10:52:38| --------------------------------------------------------------------------------
+10:52:38| Primes: 1000
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38| ['[] is not prime']
+10:52:38| ['[] is prime']
+10:52:38|  
+10:52:38| --------------------------------------------------------------------------------
+10:52:38| Words: 1000
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38| philobiblical
+ not found
+10:52:38|  
+10:52:38| --------------------------------------------------------------------------------
+10:52:38| Uppercase: 0
+10:52:38|  
+10:52:38| --------------------------------------------------------------------------------
+10:52:38| Sums: 0
+10:52:38|  
+10:52:38| --------------------------------------------------------------------------------
+10:52:38| Names: 34
+10:52:38| 392
+10:52:38| 504
+10:52:38| 571
+10:52:38| 579
+10:52:38| 581
+10:52:38| 650
+10:52:38| 684
+10:52:38| 795
+10:52:38| 1136
+10:52:38| 1509
+10:52:38| 1780
+10:52:38| 1975
+10:52:38| 2001
+10:52:38| 2064
+10:52:38| 2142
+10:52:38| 2148
+10:52:38| 2150
+10:52:38| 2320
+10:52:38| 2341
+10:52:38| 2391
+10:52:38| 2407
+10:52:38| 2700
+10:52:38| 2969
+10:52:38| 3180
+10:52:38| 3333
+10:52:38| 3565
+10:52:38| 3600
+10:52:38| 3625
+10:52:38| 3737
+10:52:38| 3808
+10:52:38| 3902
+10:52:38| 3964
+10:52:38| 3976
+10:52:38| 4006
+10:52:38|  
+10:52:38| Number of Primes tasks: 1000
+10:52:38| Number of Words tasks: 1000
+10:52:38| Number of Uppercase tasks: 0
+10:52:38| Number of Sums tasks: 0
+10:52:38| Number of Names tasks: 34
+10:52:38| Total time to process 4034 tasks = 34.39946450

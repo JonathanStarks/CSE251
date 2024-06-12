@@ -90,13 +90,17 @@ def merge_normal(arr):
 def merge_sort_thread(arr):
     # TODO - Add your code here to use threads. Each time the merge algorithm does a recursive
     #        call, you need to create a thread to handle that call
-    pass
+    merge_thread = threading.Thread(target='merge_sort', args=(arr,))
+    merge_thread.start()
+    merge_thread.join()
 
 
 def merge_sort_process(arr):
     # TODO - Add your code here to use threads. Each time the merge algorithm does a recursive
     #        call, you need to create a process to handle that call
-    pass
+    merge_normal_thread = threading.Thread(target="merge_normal", args=(arr,))
+    merge_normal_thread.start()
+    merge_normal_thread.join()
 
 
 # TODO - Add any function(s) here if needed.
