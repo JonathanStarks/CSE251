@@ -13,7 +13,6 @@ Instructions:
 - Complete any TODO comments.
 """
 
-import math
 from screen import Screen
 from maze import Maze
 import cv2
@@ -21,6 +20,7 @@ import sys
 
 # Include cse 251 files
 from cse251 import *
+import random
 
 SCREEN_SIZE = 800
 COLOR = (0, 0, 255)
@@ -34,11 +34,72 @@ def solve_path(maze):
     """ Solve the maze and return the path found between the start and end positions.  
         The path is a list of positions, (x, y) """
     path = []
-    # TODO: Solve the maze recursively while tracking the correct path.
 
-    # Hint: You can create an inner function to do the recursion
+    def solve(x, y): #returns true if at the end else flase and keeps going
+        if maze.at_end(x, y):
+            return True
+        
+        movement = maze.get_possible_moves(x, y)
+        
+        for move in movement:
+            new_x, new_y = move
+            if (maze.can_move_here(new_x, new_y)): #movement[len(movement) - 1][0], movement[len(movement) - 1][1])#)):
+                # path.append(maze.get_possible_moves(movement[len(movement) - 1][0], movement[len(movement) - 1][1])[random.randint(0, len(movement))])
+                maze.move(new_x, new_y, COLOR)#x, y, COLOR)
+                # print(path)
+                path.append((new_x, new_y))
+                #movement[len(movement) - 1][0], movement[len(movement) - 1][1])
+                
+                if solve(new_x, new_y):
+                    return True
+            
+                # print("got here")
+                path.pop()
+                maze.restore(x, y)
+                # solve(movement[len(movement) - 1][0], movement[len(movement) - 1][1])
+        return False
 
+    start_pos = maze.get_start_pos()
+    # print(start_pos)
+    path.append(start_pos)
+    solve(start_pos[0], start_pos[1])
     return path
+    
+    ''' above is the code that I tried to get to work over the course of 8 hours, and below is the code that chat gpt said would work. '''
+
+
+    # def solve(x, y):
+    #     if maze.at_end(x, y):  # Check if current position is the end
+    #         return True
+
+    #     movement = maze.get_possible_moves(x, y)  # Get possible moves from current position
+
+    #     for move in movement:
+    #         new_x, new_y = move
+    #         if maze.can_move_here(new_x, new_y):  # Check if we can move to the new position
+    #             maze.move(new_x, new_y, COLOR)  # Move to the new position
+    #             path.append((new_x, new_y))  # Add the new position to the path
+
+    #             if solve(new_x, new_y):  # Recursively solve from the new position
+    #                 return True
+
+    #             # Backtrack
+    #             path.pop()  # Remove the new position from the path
+    #             maze.restore(x, y)  # Restore the move
+
+    #     return False
+
+    # start_pos = maze.get_start_pos()  # Get starting position
+    # path.append(start_pos)  # Initialize path with the starting position
+
+    # if solve(start_pos[0], start_pos[1]):  # Start solving the maze from the starting position
+    #     print("Path to the end found:", path)
+    # else:
+    #     print("No path to the end exists.")
+
+    # return path
+
+    
 
 
 def get_path(log, filename):

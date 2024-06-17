@@ -70,7 +70,7 @@ def main():
     # TODO - Create PHILOSOPHERS philosophers.
     # TODO - Start them eating and thinking.
     # TODO - Display how many times each philosopher ate.
-    pass
+    
 
 
 if __name__ == '__main__':

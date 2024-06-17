@@ -1,0 +1,9 @@
+13:33:23| ****************************************
+13:33:23| Part 1
+13:33:23| 
+13:33:23| File: ./mazes/very-small.bmp
+13:33:23| Drawing commands to solve = 106
+13:33:29| Found path has length     = 11
+13:33:29| 
+13:33:29| File: ./mazes/very-small-loops.bmp
+13:33:29| Drawing commands to solve = 350

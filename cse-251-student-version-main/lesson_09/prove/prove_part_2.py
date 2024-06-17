@@ -29,7 +29,9 @@ Why would it work?
 
 """
 
-import math
+import random
+
+
 import threading 
 from screen import Screen
 from maze import Maze
@@ -85,8 +87,34 @@ def get_color():
 def solve_find_end(maze):
     """ Finds the end position using threads. Nothing is returned. """
     # When one of the threads finds the end position, stop all of them.
-    global stop
-    stop = False
+    # path = []
+    
+    def solve(x, y, lock): #returns true if at the end else flase and keeps going
+        if maze.at_end(x, y):
+            global stop
+            stop = False
+        
+        movement = maze.get_possible_moves(x, y)
+        thread_maze = threading.Thread(target=solve, args=(x, y, lock))
+        thread_maze.start()
+        lock.acquire()
+        for move in movement:
+            new_x, new_y = move
+            if (maze.can_move_here(new_x, new_y)):
+                
+                maze.move(new_x, new_y, (random.randint(0, 255), random.randint(0, 255), (random.randint(0, 255))))#([random.randint(0, 256)], [random.randint(0, 256)], [random.randint(0, 256)]))
+                
+                if solve(new_x, new_y, lock):
+                    # thread_count = thread_count + 1
+                    return True
+                else:
+                    thread_maze.join()
+                    lock.release()
+
+        return False
+    lock = threading.Lock()
+    start_pos = maze.get_start_pos()
+    solve(start_pos[0], start_pos[1], lock)
 
 
 
